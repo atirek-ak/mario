@@ -20,7 +20,7 @@ q = Quit
 
 Various Symbols in the Game:
 Mario: 00
-	   /\
+       /\
 
 Enemy: RR
 
