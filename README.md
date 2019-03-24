@@ -28,7 +28,7 @@ The game has 4 randomly generated levels which vary in difficulty. The objective
 - Spring implements superjump
 
 ## Coded using
-python3 (core libraries only)
+* python3 (core libraries only)
 
 ## Author
 Atirek Kumar  
