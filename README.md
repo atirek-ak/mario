@@ -1,7 +1,7 @@
 # Terminal based Mario
 Mario game that runs on the terminal  
 Designed to run on Mac OS  
-For the linux version head over to https://github.com/atirek-ak/Terminal-Based-Mario-for-Linux
+For the linux version head over to https://github.com/atirek-ak/mario-linux
 
 ## Getting Started
 ### Download python3
