@@ -1,17 +1,21 @@
 # Terminal based Mario
-Mario game that runs on the terminal  
-Designed to run on Linux 
-For the Mac OS version head over to https://github.com/atirek-ak/mario-macOS
+Mario designed only using ASCII characters and core python3 libraries. Runs on the terminal.
 
 ## Getting Started
-### Download python3
-```brew install python3```
 
-### Running the project
+### Cloning the repository
+* Linux:  
+```git clone -b linux https://github.com/atirek-ak/mario/```
+
+### Download python3
+* Linux:  
+```sudo apt-get install python3```
+
+### Running the repository
 ```python3 main.py```
 
 ## Description:
-The game has 4 randomly generated levels which vary in difficulty. The objective of a level is to reach the flag at the end while collecting coins and killing enemies the mario way- by jumping on them.
+The game has 4 randomly generated levels which vary in difficulty. The objective of a level is to reach the flag at the end while collecting coins and killing enemies the mario way: by jumping on them.
 
 ## Controls:
 * w = Jump
