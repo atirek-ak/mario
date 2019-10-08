@@ -1,5 +1,5 @@
 # Terminal based Mario
-Mario designed only using ASCII characters and core python3 libraries. Runs on the terminal.
+Mario designed only using ASCII characters and core python3 libraries. Runs on the OS X terminal.
 
 ## Getting Started
 
