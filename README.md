@@ -7,15 +7,6 @@ Mario designed only using ASCII characters and core python3 libraries. Runs on t
 * Linux:  
 ```git clone -b linux https://github.com/atirek-ak/mario/```
 
-* OS X:  
-```git clone -b os-x https://github.com/atirek-ak/mario/```
-
-### Download python3
-* Linux:  
-```sudo apt-get install python3```
-
-* OS X:  
-```brew install python3```
 
 ### Running the repository
 ```python3 main.py```
